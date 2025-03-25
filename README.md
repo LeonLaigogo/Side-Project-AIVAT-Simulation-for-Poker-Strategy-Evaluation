@@ -79,7 +79,6 @@ Side-Project-AIVAT-Simulation-for-Poker-Strategy-Evaluation/
 ## 📬 Author
 
 Developed by [@LeonLaigogo](https://github.com/LeonLaigogo)  
-Date: 2025-03-24
 
 ---
 
