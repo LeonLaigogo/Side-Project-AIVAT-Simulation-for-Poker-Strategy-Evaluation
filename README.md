@@ -42,6 +42,17 @@ Click the badge below to launch this notebook in Colab:
 - 📊 In a 100-batch experiment, raw EV variance = 0.0181, AIVAT variance = 0.0076  
 - ✅ F-test confirmed statistical significance (F = 2.39, p ≪ 0.05)
 
+## 🖼️ Visualization
+
+### 📊 Misjudgment Rate vs Sample Size (Raw EV vs AIVAT)
+
+<p align="center">
+  <img src="assets/misjudgment_rate_vs_sample_size.png" width="70%">
+</p>
+
+This figure compares how AIVAT and Raw EV perform under different sample sizes.  
+AIVAT stabilizes faster and delivers more consistent win-rate estimation, especially in high-variance, low-sample environments.
+
 ---
 
 ## 📂 Project Structure
