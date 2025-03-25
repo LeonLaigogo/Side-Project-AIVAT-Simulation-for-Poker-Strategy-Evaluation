@@ -56,7 +56,13 @@ AIVAT stabilizes faster and delivers more consistent win-rate estimation, especi
 ---
 
 ## 📂 Project Structure
-<pre lang="text"><code> ``` Side-Project-AIVAT-Simulation-for-Poker-Strategy-Evaluation/ ├── assets/ ← Image folder for visualizations │ └── misjudgment_rate_vs_sample_size.png ← AIVAT vs Raw EV plot ├── Side_Project_AIVAT_Simulation_for_Poker_Strategy_Evaluation.ipynb ← Main simulation notebook └── README.md ← Project documentation ``` </code></pre>
+```
+Side-Project-AIVAT-Simulation-for-Poker-Strategy-Evaluation/
+├── assets/                                         ← 圖片資源資料夾 (image folder)
+│   └── misjudgment_rate_vs_sample_size.png         ← AIVAT 與 Raw EV 誤判率比較圖
+├── Side_Project_AIVAT_Simulation_for_Poker_Strategy_Evaluation.ipynb  ← 主模擬程式 notebook
+└── README.md                                       ← 專案說明文件
+```
 
 ---
 
